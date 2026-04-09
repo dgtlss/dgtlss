@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:111827,65:1e293b,100:22c55e&height=220&section=header&text=Nathan%20Langer&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Laravel%20Open%20Source%20%E2%80%A2%20Security%20%E2%80%A2%20Backups%20%E2%80%A2%20DX&descAlignY=62&descSize=18" alt="Nathan Langer banner" />
 </p>
 
-<h1 align="center">Nathan Langer</h1>
-
 <p align="center">
   Over a decade crafting sleek, secure, and scalable software.
 </p>
